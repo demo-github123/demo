@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.header {
+    background-color: black;
+    overflow: hidden;
+    padding: 20px 20px;
+}
+.header a {
+    
+    text-decoration: none;
+    padding: 13px;
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+.header-menu {
+    float: right;
+
+}
+.exam{
+     background-color: gray;
+     border-radius: 15px;
+}
+.exam1{
+    background-color: gray;
+    border-radius: 15px;
+}
